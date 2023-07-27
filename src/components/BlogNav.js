@@ -14,8 +14,7 @@ const BlogNav = () => {
 			src='https://media.geeksforgeeks.org/gfg-gg-logo.svg'
 			height='30'
 			alt=''
-			loading='lazy'
-			/>
+			loading='lazy' />
 				<Navbar.Brand href="#home" style={{color:"white", marginLeft:"10px"}}>GeeksforGeeks</Navbar.Brand>
 				<Navbar.Toggle />
 				<Navbar.Collapse id="basic-navbar-nav" className="d-flex justify-content-end">
